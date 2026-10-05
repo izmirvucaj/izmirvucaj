@@ -1,7 +1,7 @@
 # Hi, I'm Izmir 👋
 
 Full-stack developer based in Shkodër, Albania. Computer Engineering graduate (Trakya University, 2025).
-I build web apps with **React** and **Spring Boot / Node.js**, and I'm currently looking for a **junior frontend or full-stack role** (remote, Albania, or Türkiye).
+I build web apps with **React** and **Spring Boot / Node.js**, and I'm currently looking for a **junior frontend or full-stack role**.
 
 🗣️ Albanian (native) · Turkish (C2) · English (B2)
 

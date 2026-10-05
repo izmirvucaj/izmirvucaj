@@ -29,4 +29,4 @@ React.js UI work on an enterprise app, REST API integration, Agile sprints.
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/izmir-vucaj-3a5a9226a/) · izmirvucaj12@gmail.com
+[LinkedIn](https://www.linkedin.com/in/izmir-vucaj-3a5a9226a/) · mailto:izmirvucaj12@gmail.com

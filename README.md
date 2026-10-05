@@ -8,8 +8,8 @@ I build web apps with **React** and **Spring Boot / Node.js**, and I'm currently
 ## 🔧 Tech I work with
 
 **Frontend:** React, JavaScript, HTML/CSS, Bootstrap, React Native
-**Backend:** Spring Boot, Node.js / Express, ASP.NET Core, REST APIs, JWT / OAuth 2.0
-**Databases:** MySQL, SQL Server, Oracle
+**Backend:** Spring Boot, Node.js / ASP.NET Core, REST APIs, JWT / OAuth 2.0
+**Databases:** MySQL
 **Tools:** Git, Netlify, Agile / Scrum
 **Currently learning:** TypeScript, Next.js
 

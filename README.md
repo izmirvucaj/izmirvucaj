@@ -19,7 +19,7 @@ I build web apps with **React** and **Spring Boot / Node.js**, and I'm currently
 |---|---|---|
 | [simple_planner](https://github.com/izmirvucaj/simple_planner) | Task planner with a REST API | React, Vite, Express, MySQL |
 | [BudgetManager](https://github.com/izmirvucaj/BudgetManager) | Personal finance tracker: income, expenses, budgets | React |
-| [PersonalWebsite](https://github.com/izmirvucaj/PersonalWebsite) | My portfolio site ([live](LIVE_LINK)) | React, Netlify |
+| [PersonalWebsite](https://github.com/izmirvucaj/PersonalWebsite) | My portfolio site ([https://izmirvucajj.netlify.app/)) | React, Netlify |
 | [Tower_Defense](https://github.com/izmirvucaj/Tower_Defense) | Mobile tower defense game | Flutter, Dart |
 
 ## 💼 Experience
